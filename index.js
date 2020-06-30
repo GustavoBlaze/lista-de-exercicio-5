@@ -21,7 +21,11 @@ try {
   console.log('Exercicio: 4')
   four.run()
   console.log('------------')
-  
+
+  console.log('Exercicio: 5')
+  five.run()
+  console.log('------------')
+
   console.log('Exercicio: 6')
   six.run()
   console.log('------------') 
